@@ -42,8 +42,8 @@ Follow The Steps Below!
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
-> git clone https://github.com/Fxc7/termux-bot-wa
-> cd termux-bot-wa
+> git clone https://github.com/maulana907/BOT_MTK
+> cd BOT_MTK
 > npm cache clear
 > bash install.sh
 > npm audit fix
